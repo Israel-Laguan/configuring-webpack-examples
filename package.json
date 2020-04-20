@@ -1,0 +1,20 @@
+{
+  "name": "configuring-webpack-examples",
+  "version": "1.0.0",
+  "description": "Repository with example configuration in diferent use cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Israel-Laguan/configuring-webpack-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Israel-Laguan/configuring-webpack-examples/issues"
+  },
+  "homepage": "https://github.com/Israel-Laguan/configuring-webpack-examples#readme"
+}
