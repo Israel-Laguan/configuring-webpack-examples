@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Israel-Laguan/configuring-webpack-examples#readme",
   "devDependencies": {
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
